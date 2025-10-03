@@ -3,7 +3,7 @@
 
 This is an interactive web application that classifies Iris flowers into three species—Setosa, Versicolor, and Virginica—based on user-input features: sepal length, sepal width, petal length, and petal width. Built using Streamlit and a pre-trained machine learning model, this app provides real-time predictions and visual feedback.
 
-🔗 Live Demo: Iris Classification App
+🔗 Live Demo: https://iris-classification-tyozw8vpabhfjva2yfwyvx.streamlit.app/
 
 📌 Features
 
