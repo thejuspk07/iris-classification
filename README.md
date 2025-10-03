@@ -1,97 +1,72 @@
-Iris Flower Classification with Streamlit
+# iris-classification
+🌸 Iris Flower Classification with Streamlit
 
-An interactive web application that classifies Iris flowers into three species—Setosa, Versicolor, and Virginica—based on user-input features: sepal length, sepal width, petal length, and petal width.
+This is an interactive web application that classifies Iris flowers into three species—Setosa, Versicolor, and Virginica—based on user-input features: sepal length, sepal width, petal length, and petal width. Built using Streamlit and a pre-trained machine learning model, this app provides real-time predictions and visual feedback.
 
-Built using Streamlit and a pre-trained Random Forest model, this app provides real-time predictions, probabilities, and visual feedback.
+🔗 Live Demo: Iris Classification App
 
-🔗 Live Demo: https://iris-classification-tyozw8vpabhfjva2yfwyvx.streamlit.app/
+📌 Features
 
+Interactive Input: Adjust sliders for sepal and petal dimensions.
 
----
+Real-Time Prediction: Instant classification of Iris species.
 
-✨ Features
+Visual Feedback: Displays images of the predicted species.
 
-✅ Interactive Input – Adjust sliders for sepal & petal dimensions
-✅ Real-Time Prediction – Instant classification of Iris species
-✅ Visual Feedback – Displays images of the predicted species
-✅ Model Confidence – Shows prediction probabilities for each class
-
-
----
+Model Confidence: Shows prediction probabilities for each class.
 
 🛠️ Technologies Used
 
-🎨 Streamlit – Interactive web app framework
+Streamlit: For building the interactive web interface.
 
-🤖 Scikit-learn – Machine learning model (Random Forest Classifier)
+Scikit-learn: For machine learning model implementation.
 
-📊 Pandas & NumPy – Data processing & manipulation
+Pandas & NumPy: For data manipulation and processing.
 
-📈 Matplotlib/Seaborn – Data visualization (optional)
-
-
-
----
+Matplotlib/Seaborn: For data visualization (if applicable).
 
 📥 Installation & Usage
-
-# 1️⃣ Clone the Repository
+1. Clone the Repository
 git clone https://github.com/yourusername/iris-classification.git
 cd iris-classification
 
-# 2️⃣ (Optional) Create Virtual Environment
+2. Set Up Virtual Environment (Optional but Recommended)
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-# 3️⃣ Install Dependencies
+3. Install Dependencies
 pip install -r requirements.txt
 
-# 4️⃣ Run the Streamlit App
+4. Run the Streamlit App
 streamlit run app.py
 
-👉 This will open the app in your default web browser.
 
-
----
+This will open the app in your default web browser.
 
 📊 Model Details
 
-📂 Dataset: Iris dataset (150 samples, 3 species)
+Dataset: Iris dataset containing 150 samples with 3 classes.
 
-🌲 Model: Random Forest Classifier
+Model: Trained using a Random Forest Classifier.
 
-🎯 Accuracy: ~97.8% on test set
-
-
-
----
+Accuracy: Achieves approximately 97.8% accuracy on the test set.
 
 🧪 Example Usage
 
-1. Adjust the sliders for sepal and petal dimensions
+Adjust the sliders for sepal and petal dimensions.
 
+Click on the "Classify" button.
 
-2. Click "Classify"
-
-
-3. View the predicted Iris species 🌺 along with confidence probabilities 📊
-
-
-
-
----
+View the predicted Iris species along with the confidence probabilities.
 
 📚 Acknowledgements
 
-📑 Dataset: UCI Machine Learning Repository – Iris Dataset
+Dataset: The Iris dataset is sourced from the UCI Machine Learning Repository.
 
-📝 Tutorial Inspiration: Beginner’s Guide to Building an Iris Classification App with Streamlit
-
-
-
----
+Tutorial Inspiration: Beginner’s Guide to Building an Iris Classification App with Streamlit
 
 📄 License
 
-📜 This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE
+ file for details.
 
