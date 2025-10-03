@@ -4,7 +4,7 @@ An interactive web application that classifies Iris flowers into three species�
 
 Built using Streamlit and a pre-trained Random Forest model, this app provides real-time predictions, probabilities, and visual feedback.
 
-🔗 Live Demo: Try the App
+🔗 Live Demo: https://iris-classification-tyozw8vpabhfjva2yfwyvx.streamlit.app/
 
 
 ---
