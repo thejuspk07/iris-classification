@@ -68,5 +68,4 @@ Tutorial Inspiration: Beginner’s Guide to Building an Iris Classification App 
 📄 License
 
 This project is licensed under the MIT License - see the LICENSE
- file for details..
-
+ file for details.
