@@ -113,4 +113,4 @@ Your default web browser will automatically open the application.
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.. 
