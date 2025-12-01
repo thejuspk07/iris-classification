@@ -67,7 +67,7 @@ source venv/bin/activate
 # venv\Scripts\activate
 ```
 
-### 3\. Install Dependencies
+### 3. Install Dependencies
 
 Install all necessary libraries using the provided `requirements.txt` file:
 
