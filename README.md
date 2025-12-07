@@ -25,7 +25,7 @@ Built with **Streamlit** for the frontend and a pre-trained **Scikit-learn** mod
 
 Experience the application immediately:
 
-➡️ **[Iris Flower Classification App](https://iris-classification-tyozw8vpabhfjva2yfwyvx.streamlit.app/)**
+➡️ ***[Iris Flower Classification App](https://iris-classification-tyozw8vpabhfjva2yfwyvx.streamlit.app/)***
 
 -----
 
